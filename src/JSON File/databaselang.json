@@ -1,0 +1,45 @@
+
+
+
+{
+"data":[
+    {
+           "Name" :"Udaya Pujari",
+           "Title"  :"developer",
+          "Ownership % or # of Shares/ Units": "90%"
+            
+          },
+          {
+           "Name" :"Udaya Pujari1",
+           "Title"  :"developer2",
+          "Ownership % or # of Shares/ Units": "90.1%"
+            
+          },
+          {
+           "Name" :"Udaya Pujari3",
+           "Title"  :"developer3",
+          "Ownership % or # of Shares/ Units": "90.3%"
+          },
+          {
+           "Name" :"Udaya Pujari4",
+           "Title"  :"developer4",
+          "Ownership % or # of Shares/ Units": "90.4%"
+            
+          },
+          {
+           "Name" :"Udaya Pujari5",
+           "Title"  :"developer5",
+          "Ownership % or # of Shares/ Units": "90.5%" 
+          },
+          {
+           "Name" :"Udaya Pujari6",
+           "Title"  :"developer6",
+          "Ownership % or # of Shares/ Units": "90.6%"
+            
+          },
+          {
+           "Name" :"Udaya Pujari7",
+           "Title"  :"developer7",
+          "Ownership % or # of Shares/ Units": "90.7%" 
+          }
+  ]}
